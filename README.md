@@ -1,4 +1,4 @@
-<h1 align="center">Hello_world.txt. My name is Benjamin Szodo</h1>
+<h1 align="center">Hello_world.txt. My name is Gabriel Szodo</h1>
 <h3 align="center">Searching my 💥Prime Version💥.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminszodo&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminszodo" /> </p>
