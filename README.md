@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminszodo&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminszodo" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **NestJS**
 
 - 📫 How to reach me **benjaminszodo@gmail.com**
 
